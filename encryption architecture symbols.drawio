@@ -1,1 +1,67 @@
-<mxfile><diagram id="VS3mLfsqfVakpo9pf3-y" name="Page-1">7Vldb5swFP01eRwCzFcem6zZpG3apD7scXLAASsGI+M06X79rsFOQgxtqraLuqWNiDnXNtjn3HttZ4Lm5e6TwHXxjWeETXw3203Qx4nve7HvwpdCHjrkAwr8DskFzXStA3BHfxMN6ob5hmak6VWUnDNJ6z6Y8qoiqexhWAi+7VdbcdZ/ao1zYgF3KWY2+pNmsujQxI8P+GdC88I82YumnaXEprIeSVPgjG+PIHQ7QXPBuexK5W5OmJo9My9du8WIdf9iglTynAZIv/I9Zhs9OP1i8sGMNhd8U0/QbMUrucAlZYo2XpNKVcNVo013fCNS1aSQEnjwQ3QDF3iyuqgKjZNznjOCa9o4KS9bQ9q0VRerrmMo6q5Df3bceacBLzT3+vVce8B6Du6JkGQ3JAe8NCM7zDholfCSSAGv4JpWke5dy9TzXQ1sD6RPNVQc823YxVpn+b7vAxVQ0GyMMJNYzHwhDxY5IKBaFSsu4Wu2LagkdzVuidiC+wFWyJKpuYPiEqdrRWeVfd9IRiui8QyL9XdoRaUaq+u44ci8X4z/cb73Ej4l3Cb2r/A2fdqjak5hOlQ5nMEHnjp3nVBdJyHY5wpz/KAF+mBbyfGTE3g67QxBfNpLh8f+UOeeAeGDZmr+KMS4r3hJ2A/eUEl5Be+45FICWT0dmbo3jOaqjuRKaLipu2i7ojuSKUCbUyCLCADagRNxe0+68au+jILLXa7ShZPSJuXe1FmD2oF8yticMy7amUOuG7oxUq2k4GtiLBVXUn4vEeoZitVWvx+JEjsOhQN69n1F/0sFHbiWoOe0LoBPyLpkJ68h6ewUNM5vcslUE3gWw9dFwM6o/wxmPPRm1PgWNbdVKh7qNjj7Lqly5TJjLqjcE1yJb5Z6otCsdTUVndu7J5xzOM6/Ew0E57vh3+ESPe1mvIuB8/3GxdXjPMqB8L9QT5hBvswoOdhMFuynzBsvihaLsZSZ4abYq+HJJcBI3j9N80cKepyzgTXDOUsEvG0Ch5Til5b/5ST5ItVpK4qcMJoe/fUCTjyQ6yMnCW2RGn29SKPB8K4Ddq4V7GrFNdK8Sr4Pz9lavmEkCq8Jf4yayEr4oU1NNMBM9BruFw2733WFfRplwxG+H83tb0bbGado1z3/f73nf4ZgjdVzPK8XitRCwQpFKHbiZCBPxK8ga/sI8pomTAa/6IbdPmP8wTCtricyo+6XjBB/mUNio57HPOs0Ri7rsnKaVNBa/pK4WfdJG904HpNjYjMjK/lPcGWsgQmM4wekkWdziV4h94f24RmQAJlKVVoqL8LCXsFBH7RuznDG06xb0ixj7yjvPXtrFHunkdUb2Bq5Aykveb5jwu3ht9bWdvSTNbr9Aw==</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="VS3mLfsqfVakpo9pf3-y" name="Page-1">
+        <mxGraphModel dx="1720" dy="-342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="37" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="160" y="1200" width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Key" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="37" vertex="1">
+                    <mxGeometry width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="37" vertex="1">
+                    <mxGeometry x="20" y="80" width="50" height="22.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Cipher text" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="280" y="1200" width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="40" y="1520" width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Encryption engine" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="41" vertex="1">
+                    <mxGeometry width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#A166FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=15;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.emr_engine;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;" parent="41" vertex="1">
+                    <mxGeometry x="36.56999999999999" y="70" width="56.85" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Key manager" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1520" width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="240" y="1570" width="60" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Key" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="45" vertex="1">
+                    <mxGeometry width="60" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="45" vertex="1">
+                    <mxGeometry x="11.11" y="36.5" width="37.78" height="17" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="50" y="1200" width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Plain text" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="48" vertex="1">
+                    <mxGeometry width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="shape=mxgraph.bpmn.script_task;html=1;outlineConnect=0;fontSize=15;align=left;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="48" vertex="1">
+                    <mxGeometry x="14.5" y="80" width="61" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Control boundary" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="410" y="1220" width="108" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="280" y="1360" width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Execution environment" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" vertex="1" parent="52">
+                    <mxGeometry width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="&amp;nbsp; data communication with EE&amp;nbsp;&amp;nbsp;" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="53">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="50" y="1420" as="sourcePoint"/>
+                        <mxPoint x="400" y="1530" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
