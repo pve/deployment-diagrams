@@ -1,0 +1,69 @@
+<mxfile host="65bd71144e">
+    <diagram id="ryEz-RieR4D8YPyF0-60" name="Page-1">
+        <mxGraphModel dx="1720" dy="-342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="45" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" source="28" target="46" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="538" y="1710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="Instance&lt;br style=&quot;font-size: 15px;&quot;&gt;(instance-managed encryption)" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="290" y="1400" width="198" height="198" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="313" y="1460" width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Encryption engine" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="25" vertex="1">
+                    <mxGeometry width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#A166FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=15;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.emr_engine;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;" parent="25" vertex="1">
+                    <mxGeometry x="36.56999999999999" y="70" width="56.85" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=14;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="313" y="1680" width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Key manager" style="shape=ext;double=0;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=14;" parent="31" vertex="1">
+                    <mxGeometry width="130" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=14;" parent="31" vertex="1" connectable="0">
+                    <mxGeometry x="20" y="50" width="100" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Key" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;" parent="33" vertex="1">
+                    <mxGeometry width="100" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=14;" parent="33" vertex="1">
+                    <mxGeometry x="22.222222222222218" y="42" width="25.000000000000004" height="11.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="group;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="60" y="1439" width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Plain text" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="38" vertex="1">
+                    <mxGeometry width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="shape=mxgraph.bpmn.script_task;html=1;outlineConnect=0;fontSize=15;align=left;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="38" vertex="1">
+                    <mxGeometry x="14.5" y="80" width="61" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" source="32" target="26" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="318" y="1650" as="sourcePoint"/>
+                        <mxPoint x="368" y="1600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;endArrow=none;endFill=0;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" source="39" target="28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Storage" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontSize=15;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="543" y="1410" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Cipher text" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=15;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="588" y="1450" width="90" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;h1&gt;Encryption Architecture&lt;/h1&gt;&lt;p&gt;Inspired by CSA Security Guidance version 4, page 124&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=top;fontFamily=open sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dopen%2Bsans;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1680" width="190" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
