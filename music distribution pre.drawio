@@ -1,0 +1,27 @@
+<mxfile host="65bd71144e">
+    <diagram id="Fez51QLX6yPUm-_a4iuM" name="Page-1">
+        <mxGraphModel dx="569" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="bkRi8aOQFHDNeQfc3l1W-10" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="187.42" width="144" height="92.42" as="geometry"/>
+                </mxCell>
+                <mxCell id="bkRi8aOQFHDNeQfc3l1W-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.note;pointerEvents=1" parent="1" vertex="1">
+                    <mxGeometry x="477.15" y="218.78" width="29.7" height="29.7" as="geometry"/>
+                </mxCell>
+                <mxCell id="bkRi8aOQFHDNeQfc3l1W-12" value="Speaker" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="194.83999999999997" width="70" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="bkRi8aOQFHDNeQfc3l1W-13" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.speaker;part=1;" parent="bkRi8aOQFHDNeQfc3l1W-12" vertex="1">
+                    <mxGeometry x="0.5" width="35" height="50" relative="1" as="geometry">
+                        <mxPoint x="-17.5" y="10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bkRi8aOQFHDNeQfc3l1W-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="347.42" width="35" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
